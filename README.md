@@ -1,3 +1,6 @@
+![App](https://github.com/MarcoDiaz2000/budget-app-ror/assets/125866339/33c0f8f9-556e-40f1-92cf-7c86614ce5c1)
+
+
 <a name="readme-top"></a>
 
 # 📗 Table of Contents 
